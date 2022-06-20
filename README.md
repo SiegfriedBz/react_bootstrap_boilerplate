@@ -1,4 +1,4 @@
 # React App boiler plate with
 # bootstrap
-{ webpackconfig for .env files
+# webpackconfig for .env files
 
